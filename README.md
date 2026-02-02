@@ -1,29 +1,26 @@
-# Hi, I'm Mariela 👋
+# Hi, I'm Mariela
 
-I'm a systems-oriented professional with a background in **IT operations, business analysis, and product-focused software projects**.
+I work at the intersection of operations, systems, and technology, with a strong focus on reducing operational friction through well-structured processes and practical solutions.
 
-I enjoy translating **real operational problems** into structured systems, focusing on:
-- clarity over complexity
-- usability over features
-- documentation and functional design as first-class citizens
-
-My recent work centers on **portfolio projects** that simulate real business scenarios rather than academic exercises.
+I’m especially interested in environments where:
+- processes are complex or poorly documented
+- people rely heavily on manual coordination (emails, calls, spreadsheets)
+- technology can genuinely improve clarity and efficiency
 
 ---
 
-## 🔍 What I focus on
+## What I focus on
 
-- Business & functional analysis
-- System and process design
-- Translating workflows into software
-- Functional testing, demos, and documentation
-- AI-assisted tools for operational efficiency (RAG, automation)
+- Understanding real operational problems
+- Translating workflows into structured systems
+- Defining functional requirements and validating solutions
+- Using technology (systems, automation, AI tools) as a means to improve operations
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
-### 🚀 Elevator Management System (EMS)
+### Elevator Management System (EMS)
 A full-stack portfolio project inspired by a real elevator services company use case.
 
 **Focus areas:**
@@ -35,7 +32,7 @@ A full-stack portfolio project inspired by a real elevator services company use 
 
 ---
 
-### 🤖 MinningBots – AI Document Assistant
+### MinningBots – Internal Knowledge Assistant
 An AI-powered assistant designed to help organizations query internal documents securely.
 
 **Focus areas:**
@@ -48,7 +45,7 @@ An AI-powered assistant designed to help organizations query internal documents 
 
 ---
 
-### 🛍️ NeoSublime – Small Business Web Projects
+### NeoSublime – Small Business Web Projects
 Web and automation projects supporting a small personalized-products business.
 
 **Focus areas:**
@@ -57,21 +54,21 @@ Web and automation projects supporting a small personalized-products business.
 - Small business digital workflows
 
 🔗 Website repo: https://github.com/Maricrv/neosublime-website
+🌐 Website: https://neosublime.onrender.com/
 
 ---
 
-## 🧠 How I work
+## How I work
 
-I prioritize:
-- understanding the problem before writing code
-- simple architectures aligned with real needs
-- clear documentation and demos over over-engineering
+- I start from the problem, not the technology
+- I value clarity, usability, and documentation
+- I avoid over-engineering when simpler solutions work better
 
-I’m particularly interested in **Business Analyst, Product-oriented, and system-focused roles**, ideally in environments where clarity and impact matter more than buzzwords.
+I’m interested in roles related to operations, business analysis, and system-oriented problem solving.
 
 ---
 
-## 📫 Let’s connect
+## Let’s connect
 
 - GitHub: https://github.com/Maricrv
 - LinkedIn: https://www.linkedin.com/in/mariela-rv-69822632/
