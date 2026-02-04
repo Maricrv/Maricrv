@@ -42,7 +42,7 @@ An AI-powered assistant designed to help organizations query internal documents 
 
 🔗 Repository: https://github.com/Maricrv/minningbot-rag-assistant  
 🌐 Website: https://minningbots.com
-[Watch demo](https://drive.google.com/file/d/1ueFxNdtb5RhpC-8L8_WaVxpeWNFyrbPD/view?usp=sharing)
+Video : [Watch demo](https://drive.google.com/file/d/1ueFxNdtb5RhpC-8L8_WaVxpeWNFyrbPD/view?usp=sharing)
 
 ---
 
